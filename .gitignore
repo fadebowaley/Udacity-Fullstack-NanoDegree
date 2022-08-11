@@ -1,2 +1,6 @@
 env/
 .github/
+__pycache__/
+migrations/
+error.log
+.github/workflows/manual.yml
